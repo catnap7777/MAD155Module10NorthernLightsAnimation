@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MAD155Module10NorthernLightsAnimation</string>
+
+    <string name="imgDescription">Northern Lights Image</string>
+    <string name="btnStart">Start Frame Animation</string>
+    <string name="btnStop">Start Tween Animation</string>
+
+
+</resources>
