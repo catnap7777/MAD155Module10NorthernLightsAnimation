@@ -6,5 +6,4 @@
     <item android:drawable="@drawable/lights3" android:duration="100"/>
     <item android:drawable="@drawable/lights4" android:duration="100"/>
 
-
 </animation-list>
